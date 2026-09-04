@@ -45,8 +45,8 @@ Responsive weather application using React and weather API integration.
 ## 📫 Connect With Me
 
 - GitHub: @giantpanda968-cmd
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your professional email here
+- LinkedIn: https://www.linkedin.com/in/abhishek-kumar-7181173b4/
+- Email: akgiri0420@gmail.com
 
 ---
 
